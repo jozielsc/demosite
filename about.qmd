@@ -1,7 +1,7 @@
 ---
 title: "Joziel Costa"
 about:
-  template: jolla
+  template: trestles
   image: profile.png
   links:
     - icon: github
@@ -19,13 +19,8 @@ Minha atuação inclui a coleta e análise de requisitos para o desenvolvimento 
 Instituto Federal de Educação, Ciência e Tecnologia do Tocantins
 Tecnólogo em Sistemas para Internet | 2014
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
 
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
-
-## Experience
+## Experiência
 
 Ministério Público do Estado do Tocantins | Analista de Sistema | 2019 - present
 

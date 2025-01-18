@@ -4,6 +4,27 @@
     "href": "index.html",
     "title": "jozielsc",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a Quarto website."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Joziel Costa",
+    "section": "",
+    "text": "Desenvolvedor de software especializado em backend, com ampla experiência em Python e em tecnologias relacionadas. Atualmente, atuo em um projeto governamental focado em ciência e análise de dados, contribuindo para a geração de insights que orientam decisões estratégicas.\nMinha atuação inclui a coleta e análise de requisitos para o desenvolvimento de sistemas que atendam às necessidades específicas de cada projeto, com a capacidade de transformar esses requisitos em soluções eficazes e alinhadas aos objetivos propostos."
+  },
+  {
+    "objectID": "about.html#formação-acadêmica",
+    "href": "about.html#formação-acadêmica",
+    "title": "Joziel Costa",
+    "section": "Formação Acadêmica",
+    "text": "Formação Acadêmica\nInstituto Federal de Educação, Ciência e Tecnologia do Tocantins Tecnólogo em Sistemas para Internet | 2014"
+  },
+  {
+    "objectID": "about.html#experiência",
+    "href": "about.html#experiência",
+    "title": "Joziel Costa",
+    "section": "Experiência",
+    "text": "Experiência\nMinistério Público do Estado do Tocantins | Analista de Sistema | 2019 - present\nMinistério Público do Estado do Tocantins | Desenvolvedor | 2015 - 2019\nIFTO | Tecnico em Informática | 2012 - 2015"
   }
 ]
