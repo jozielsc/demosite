@@ -1,5 +1,34 @@
 ---
-title: "About"
+title: "Joziel Costa"
+about:
+  template: jolla
+  image: profile.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/jozielsc
 ---
 
-About this site
+Desenvolvedor de software especializado em backend, com ampla experiência em Python e em tecnologias relacionadas. Atualmente, atuo em um projeto governamental focado em ciência e análise de dados, contribuindo para a geração de insights que orientam decisões estratégicas.
+
+Minha atuação inclui a coleta e análise de requisitos para o desenvolvimento de sistemas que atendam às necessidades específicas de cada projeto, com a capacidade de transformar esses requisitos em soluções eficazes e alinhadas aos objetivos propostos.
+
+
+## Formação Acadêmica
+
+Instituto Federal de Educação, Ciência e Tecnologia do Tocantins
+Tecnólogo em Sistemas para Internet | 2014
+
+University of California, San Diego | San Diego, CA
+PhD in Mathematics | Sept 2011 - June 2015
+
+Macalester College | St. Paul MA
+B.A in Economics | Sept 2007 - June 2011
+
+## Experience
+
+Ministério Público do Estado do Tocantins | Analista de Sistema | 2019 - present
+
+Ministério Público do Estado do Tocantins | Desenvolvedor | 2015 - 2019
+
+IFTO | Tecnico em Informática | 2012 - 2015
